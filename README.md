@@ -32,11 +32,9 @@ This Python file is designed to create a Global Weather Analysis Dashboard. It c
 
 3.KEY VARIABLES :
 
-1.API Key - 
-is required to access OpenWeatherMap services.
+1.API Key -is required to access OpenWeatherMap services.
 
-2.City List -
-The program collects weather details for these cities:
+2.City List -The program collects weather details for these cities:
 CITIES = ['New York', 'London', 'Mumbai', 'Tokyo', 'Sydney', 'Paris', 'Dubai']
 
 FUNCTIONS :
