@@ -39,10 +39,6 @@ The API key is required to access OpenWeatherMap services.
 The program collects weather details for these cities:
 CITIES = ['New York', 'London', 'Mumbai', 'Tokyo', 'Sydney', 'Paris', 'Dubai']
 
-3.Base URL
-This is the API endpoint used for fetching weather data.
-BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
-
 FUNCTIONS :
 
 1.Fetching Weather Data -Temperature (°C),Humidity,Condition.
