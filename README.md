@@ -46,9 +46,10 @@ BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 FUNCTIONS :
 
 1.Fetching Weather Data -Temperature (°C),Humidity,Condition.
+
 2.Creating the Dashboard :
-                         *Temperature Comparison
-                         *Humidity Comparison
+*Temperature Comparison
+*Humidity Comparison
                          
                          
 FINAL OUTPUT :
