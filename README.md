@@ -27,7 +27,7 @@ This Python file is designed to create a Global Weather Analysis Dashboard. It c
 4.Seaborn Library -Seaborn is used to create attractive and easy-to-read visualizations. In this file, it is mainly used to create bar charts for temperature and humidity.
 
 3.KEY VARIABLES :
-*#API Key -The API key is required to access OpenWeatherMap services.
+#API Key -The API key is required to access OpenWeatherMap services.
 
 #City List
 The program collects weather details for these cities:
@@ -44,4 +44,4 @@ FUNCTIONS :
                          *Humidity Comparison
 FINAL OUTPUT :
 This Python file uses the OpenWeatherMap API to fetch live weather data for multiple cities and creates a dashboard using Seaborn and Matplotlib bar charts.
-
+<img width="1600" height="600" alt="Image" src="https://github.com/user-attachments/assets/b8c24809-405e-4c68-aff4-2d1520112c2f" />
