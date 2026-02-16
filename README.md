@@ -20,11 +20,7 @@ This Python file is designed to create a Global Weather Analysis Dashboard. It c
 1.Requests Library -The requests library is used to send HTTP requests to the OpenWeatherMap API. It helps the program connect to the internet and fetch live weather data.
 
 2.Matplotlib Library -Matplotlib is used for plotting graphs. It is responsible for creating the figure, subplots, titles, saving the image, and showing the output.
-*plt.subplots()
-*plt.suptitle()
-*plt.tight_layout()
-*plt.savefig()
-*plt.show()
+Functions used :plt.subplots(),plt.suptitle(),plt.tight_layout(),plt.savefig(),plt.show().
 
 3.Pandas Library  -Pandas is used to store the weather data in a structured table format called a DataFrame. This makes it easy to manage and plot the data.
 
